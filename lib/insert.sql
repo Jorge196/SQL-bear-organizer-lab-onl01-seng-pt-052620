@@ -1,1 +1,1 @@
-"SELECT C"
+"SELECT COUNT(*) FROM bears"
