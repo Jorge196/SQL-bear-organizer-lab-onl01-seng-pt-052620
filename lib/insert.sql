@@ -1,1 +1,1 @@
-"SELECT COUNT(*) FROM bears"
+INSERT 
